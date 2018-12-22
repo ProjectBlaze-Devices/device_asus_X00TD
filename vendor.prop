@@ -177,6 +177,9 @@ ro.hardware.vulkan=sdm660
 # HEH filename encryption is being dropped
 ro.crypto.volume.filenames_mode=aes-256-cts
 
+# Memory optimizations
+ro.vendor.qti.sys.fw.bservice_enable=true
+
 # NTP Server
 persist.backup.ntpServer=0.pool.ntp.org
 
